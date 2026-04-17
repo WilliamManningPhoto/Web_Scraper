@@ -3,7 +3,7 @@ The **requests** library is a Python tool used to send HTTP requests to websites
 such as HTML content or data. It allows your code to act like a browser, making it easy to download and interact with web pages or APIs.
 To install this library type **pip install requests** into the VSCode terminal.
 
-BeautifulSoup4 is a Python library used to parse and navigate HTML or XML content, making it easy to search for and extract specific elements from a webpage.
+**BeautifulSoup4** is a Python library used to parse and navigate HTML or XML content, making it easy to search for and extract specific elements from a webpage.
 It turns raw HTML into a structured tree so you can access data. To install the library type **pip install beautifulsoup4** into the VSCode terminal.
 
 # Practical use
